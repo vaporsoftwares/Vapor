@@ -1,2 +1,0 @@
-# Vapor
-Client Beta Tests
